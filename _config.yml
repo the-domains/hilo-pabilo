@@ -1,15 +1,16 @@
-layout_spectrum: 0.4517160195391625
-typography_spectrum: 0.26809485349804163
+layout_spectrum: 0.29887235909700394
+typography_spectrum: 0.7084481318015605
 color:
-  brandStrength: 0.6366939754225314
-  lightness: 0.5625859338324517
-  saturation: 0.42574668233282864
-  rhythmicContrast: 0.16537168994545937
+  brandStrength: 0.16413824493065476
+  lightness: 0.34224442089907825
+  saturation: 0.6211840813048184
+  rhythmicContrast: 0.7900528924074024
   brandColors:
-    - '#170F0E'
-    - '#290418'
-    - '#505217'
-    - '#FFD372'
-    - '#FFF1AF'
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
 name: Hilo Pabilo
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/7062cc88-8235-4d10-8610-227cc7e1ee69.png'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7062cc88-8235-4d10-8610-227cc7e1ee69.png
