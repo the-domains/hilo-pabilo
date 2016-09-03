@@ -12,10 +12,6 @@ color:
     - '#BD8D46'
 layout_spectrum: 0.29887235909700394
 name: Hilo Pabilo
-navigation:
-  - name: Hilo Pabilo 1
-    id: a3d136a5-8400-4036-bded-06878116b62a
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7062cc88-8235-4d10-8610-227cc7e1ee69.png
 title: Hilo Pabilo
