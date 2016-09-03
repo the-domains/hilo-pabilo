@@ -16,6 +16,9 @@ navigation:
   - name: freere
     id: 5f4d9fd0-1417-4395-b28d-e3c6a16585a7
     type: content
+  - name: rty
+    url: httt
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7062cc88-8235-4d10-8610-227cc7e1ee69.png
 title: Hilo Pabilo
